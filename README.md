@@ -8,3 +8,5 @@
 
 ## 3. R
 [Cookbook for R](http://www.cookbook-r.com/)
+[R graphics](http://www.ling.upenn.edu/~joseff/rstudy/week4.html)
+: ling.upenn.edu
