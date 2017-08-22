@@ -11,3 +11,5 @@
 
 [R graphics](http://www.ling.upenn.edu/~joseff/rstudy/week4.html)
 : ling.upenn.edu
+
+[R for Beginners](https://cran.r-project.org/doc/contrib/Paradis-rdebuts_en.pdf)
